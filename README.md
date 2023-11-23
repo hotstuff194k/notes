@@ -36,3 +36,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge that programmers face in creating user-friendly and robust software, while also acknowledging the ever-present potential for users to find unexpected ways to break or misuse it. It serves as a reminder to always consider the end-user in the design process and to anticipate potential issues before they arise.
+
+# 2023-11-23
+- "Keep it simple, stupid!"

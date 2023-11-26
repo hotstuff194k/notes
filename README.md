@@ -47,3 +47,8 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote, often attributed to Martin Golding, emphasizes the importance of writing clean, well-documented, and easily understandable code. It's not just about making your own life easier when you have to revisit your code in the future, but also about making things easier for anyone else who may have to work with your code. By following this advice, you can help ensure that your code is maintainable, scalable, and less prone to errors or bugs.

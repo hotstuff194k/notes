@@ -58,3 +58,6 @@ This quote, often attributed to Martin Golding, emphasizes the importance of wri
 
 # 2023-11-28
 - "Today's programming wisdom is to focus on writing clean, maintainable, and efficient code. It's important to always keep in mind the principles of good software design, such as modularity, encapsulation, and separation of concerns. Writing code that is easy to understand and modify will not only make your life easier, but also the lives of your colleagues who may have to work with your code in the future. Additionally, strive to write code that is optimized for performance, by minimizing unnecessary computations and maximizing the use of system resources. Always remember that programming is not just about solving problems, but also about creating solutions that are robust, scalable, and sustainable."
+
+# 2023-11-29
+- "Keep it simple, stupid!"

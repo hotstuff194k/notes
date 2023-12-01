@@ -66,3 +66,6 @@ This quote, often attributed to Martin Golding, emphasizes the importance of wri
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of anticipating and accounting for potential mistakes or misunderstandings on the part of users in order to create truly effective and reliable programs.
+
+# 2023-12-01
+- "Keep it simple, stupid!"

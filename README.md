@@ -123,3 +123,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear path forward and can avoid getting lost in the weeds. 
  <p>
 Finally, staying organized is essential. Use version control systems like Git to keep track of your code and collaborate with others. Keep your workspace clean and organized, with well-named files and folders to make it easy to find what you need. Additionally, use task management tools like Trello or Jira to track your progress and ensure everything is staying on track.
+
+# 2023-12-13
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.

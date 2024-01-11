@@ -255,3 +255,13 @@ In practical terms:
 
 # 2024-01-10
 - "Keep it simple, stupid!"
+
+# 2024-01-11
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. List your tasks: Start by creating a list of all the tasks you need to complete. It can be a simple to-do list or a more detailed project plan.
+2. Prioritize: Evaluate the importance and urgency of each task. Use a priority matrix to sort them into four categories: critical, important, useful, or low priority. Focus on the critical and important tasks first. 
+3. Break down large tasks into smaller steps: This makes it easier to manage and track your progress. Each smaller step should be specific, measurable, achievable, relevant, time-bound (SMART).  
+4. Allocate time: Estimate how long each tasks will take, based on your experience and resources. Be conservative with your estimates, as you don't want to underestimate the time needed. Then, schedule your task into your day or week, according to your availability and priorities.   
+5. Stay organized: Use project management tools, such as Trello, Asana, Jira, to track and manage your projects. These tools can help with task assignment, collaboration, communication, progress tracking, etc. Keep your code and project files well-organized and version controlled.    
+6. Learn and grow: Keep learning new programming skills, tools and best practices. Read blogs, articles, books, attend conferences, workshops, meetups, join communities. Share your knowledge and learn from others.

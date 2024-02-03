@@ -377,3 +377,10 @@ In practice, this might mean:
 
 # 2024-02-02
 - "Keep it simple, stupid!"
+
+# 2024-02-03
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ 此外，学会与他人合作和沟通也是至关重要的。编程是一个团队工作，因此，能够有效地与同事、客户和导师合作是成功的关键。学会倾听他人的意见，提出建设性的反馈，并尊重不同的观点，这将有助于您在工作中建立良好的关系。
+ 最后，保持耐心和毅力是成功的秘诀。学习编程可能会很困难，但通过不断的实践和努力，您将逐渐掌握所需的技能。遇到挫折时，要保持积极的心态，相信自己的能力，并从中学到宝贵的经验。总之，成为一名终身学习者，不断更新自己的技能和知识，与他人有效合作，并保持耐心，这些是编程智慧的精髓。

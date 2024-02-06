@@ -398,3 +398,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 Second, wisely plan you time by setting deadlines and goals. Knowing that there is a specific time frame for completing a certain task can help keep you focused and motivated. Break down larger tasks into smaller, manageable pieces, so that they'll be easier to complete. Also, don't be afraid to take breaks. Taking a short break every hour or so can actually improve your productivity and creativity.  
 - -----  -   -    -     ------
 Finally, stay organize. Keeping your code, project files, notes, etc. in order can save you a lot of time and frustration in the long run. Learn to use version control systems, like Git, which will allow you keep your files organized and easy to access. Additionally, organize your workspace by creating dedicated folders for different projects or components. Doing so will make it easier for you find what you need and reduce the likelihood of accidentally overwriting or deleting something important.
+
+# 2024-02-06
+- "Today's programming wisdom is to remember that code is read far more often than it's written. Strive for clarity and maintainability in your work, as this will save time and reduce errors not just for yourself, but also for others who interact with your code in the future. Always consider the next developer who'll read your code; write it as if you are explaining it to them." 
+
+In essence, writing clean, well-structured, and self-explanatory code is a fundamental practice of good programming today. It emphasizes the importance of readability and documentation, which are as crucial as functionality itself.

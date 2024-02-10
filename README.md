@@ -415,3 +415,8 @@ In essence, writing clean, well-structured, and self-explanatory code is a funda
 
 To be successful in the programming field, one must also have excellent communication and teamwork skills, as programmers often work closely with other members of a development team. Effective communication helps to ensure that everyone is on the same page and that projects are completed successfully. Additionally, being able to adapt to new challenges and learn from mistakes is essential, because programming can be complex and ever-changing. 
  - 来自NLP
+
+# 2024-02-10
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, readable, and maintainable code first. Optimize only when necessary and after profiling. Remember that code is read far more often than it's written." 
+
+In essence, this quote from computer scientist Donald Knuth reminds programmers to prioritize clarity and understandability in their initial development efforts. It's easy to get bogged down by trying to write highly optimized code from the start, but this can lead to complex, hard-to-maintain solutions. Instead, one should write straightforward code initially and optimize only when there's a proven need for improved performance, based on data from profiling tools that identify actual bottlenecks.
